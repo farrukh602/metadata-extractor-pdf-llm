@@ -1,0 +1,3 @@
+Order of performance of PDF extraction tools on metadata extraction:
+pdfminer >>>> pypdf2 >> pymupdf
+pdfminer proivdes more functionality 
